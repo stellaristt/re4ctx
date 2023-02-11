@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Full Stack Developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP
+Javascript, HTML, CSS, PHP, Flutter
 
 
 ## Other Common Github Profile Sections
