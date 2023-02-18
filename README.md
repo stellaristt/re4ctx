@@ -7,7 +7,7 @@ I'm a Full Stack Developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, PHP, Flutter
+Javascript, HTML, CSS, PHP, Flutter, Laravel, Next.js
 
 
 ## Other Common Github Profile Sections
