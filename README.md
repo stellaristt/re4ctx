@@ -3,15 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a Full Stack Developer
+🐱‍👤 I'm a Full Stack Developer
+👩‍💻 I'm currently working on Freelance and Office Project
 
 
 ## 🛠 Skills
 Javascript, HTML, CSS, PHP, Flutter, Laravel, Next.js
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Freelance and Office Project
 
 
 ## 🔗 Links
