@@ -1,6 +1,7 @@
 
 # Hi, I'm Rohsyam Sidik! 👋
 
+<a href="https://app.daily.dev/re4ctx"><img src="https://api.daily.dev/devcards/252cc6b230c34803812a5b4a82e6dfd8.png?r=m1o" width="400" alt="Rohsyam Sidik's Dev Card"/></a>
 
 ## 🚀 About Me
 🐱‍👤 I'm a Full Stack Developer
